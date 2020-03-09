@@ -1,0 +1,23 @@
+.cella {
+  border: 2px black solid;
+  width: 100px;
+  height: 100px;
+  font-size: 70px;
+  padding: 25px;
+}
+
+
+
+.cella:hover{
+background-color: rgb(252, 252, 166);
+}
+.colonna {float: left;}
+
+.container{
+  margin: 50px;
+text-align: center;
+
+}
+
+.giocatori {margin: 30px;
+font-size: 15px;}
